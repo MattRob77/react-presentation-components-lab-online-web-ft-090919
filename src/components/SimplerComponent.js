@@ -2,7 +2,6 @@
 import React from "react";
 
 const SimplerComponent = ({ handleClick}) => {
-  return 
   return <div onClick={handleClick}>I am just happy</div>;
 };
 
